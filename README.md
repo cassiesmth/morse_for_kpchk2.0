@@ -1,2 +1,2 @@
 # morse_for_kpchk2.0
-тгбот для одного гения ибо я заебалась переводить
+tgbot for translating morse(rus/eng)
